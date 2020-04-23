@@ -1,0 +1,15 @@
+Chris:Line,FoH,BoH:38
+Jill:Line,FoH,BoH:38
+Tony:FoH,BoH:32
+Keith:Line,BoH:32
+Kim:FoH:32
+Tim:FoH:32
+Tom:Line,BoH:25
+Steven:BoH:25
+Josh:Line,FoH,BoH:25
+Ashley:Line,FoH,BoH:25
+Mike:Line,FoH:25
+Meghan:Line,FoH,BoH:20
+Joe:Line,FoH,BoH:20
+Luke:Line,FoH,BoH:20
+Ralph:FoH,BoH:15
